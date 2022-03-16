@@ -1,0 +1,34 @@
+.cardLogin {
+    padding: 70px;
+}
+
+.footerColor {
+    color: #b4b4ba;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.labelColor {
+    color: #b4b4ba;
+    font-weight: bold;
+}
+
+.conteinerFooter {
+    padding-top: 30px;
+}
+
+.containerForm {
+    padding: 30px;
+}
+
+.titleCard {
+    color: #334154;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.LoginLink {
+    color: #528ff6;
+    font-weight: bold;
+}
+
