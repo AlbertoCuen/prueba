@@ -3,7 +3,7 @@ import { Box, Button, Card, FormControl, IconButton, InputAdornment, InputLabel,
 import Visibility from '@material-ui/icons/Visibility';
 import VisibilityOff from '@material-ui/icons/VisibilityOff';
 import { asyncPostCall } from '../../helpers/postUser'
-import './login.css';
+import './Login.css';
 
 interface State {
     password: string;
