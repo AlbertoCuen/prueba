@@ -1,0 +1,9 @@
+.elements {
+    display: flex;
+
+}
+
+.title {
+    color: #334154;
+    padding: 20px;
+}
